@@ -1,2 +1,2 @@
 # firstGame
-First try to do game with js
+First try to make a game with js
